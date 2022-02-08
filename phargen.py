@@ -5,6 +5,9 @@ import struct
 import zlib
 import hashlib
 
+# ;)
+phpobject = psr.phpobject
+
 # This is not the best code. But it works :)
 #
 #
